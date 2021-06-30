@@ -43,6 +43,10 @@ const EmptyResultsText = styled.div`
     width: 100%;
     height: 100%;
     padding: 2rem;
+
+    @media only screen and (max-width: 850px) {
+        display: none;
+    }
 `
 
 export function Results(props) {

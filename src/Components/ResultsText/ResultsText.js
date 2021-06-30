@@ -11,6 +11,10 @@ const ResultsTextContainer = styled.div`
 
     @media only screen and (max-width: 850px) {
         position: absolute;
+        padding: 0;
+        overflow: hidden;
+        height: auto;
+        bottom: 20%;
     }
 `;
 
