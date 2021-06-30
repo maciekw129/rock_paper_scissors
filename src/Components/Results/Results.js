@@ -23,6 +23,7 @@ const Opponent = styled.div`
     @media only screen and (max-width: 850px) {
         flex-direction: column-reverse;
         justify-content: flex-end;
+        padding: 0.5rem;
     }
 `;
 
@@ -34,8 +35,8 @@ const OpponentTitle = styled.h2`
 
 const BlankCircle = styled.div`
     border-radius: 50%;
-    width: 150px;
-    height: 150px;
+    width: 140px;
+    height: 140px;
     background-color: hsl(229, 25%, 31%);
 `;
 

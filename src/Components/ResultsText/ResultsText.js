@@ -14,7 +14,7 @@ const ResultsTextContainer = styled.div`
         padding: 0;
         overflow: hidden;
         height: auto;
-        bottom: 20%;
+        bottom: 15%;
     }
 `;
 

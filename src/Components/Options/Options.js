@@ -6,8 +6,8 @@ import scissors from './icon-scissors.svg';
 const HandOption = styled.div`
     background-color: #ffffff;
     border-radius: 50%;
-    width: 150px;
-    height: 150px;
+    width: 140px;
+    height: 140px;
     border: 17px solid;
     display: flex;
     justify-content: center;

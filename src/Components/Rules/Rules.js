@@ -25,6 +25,7 @@ const RulesBackground = styled.div`
         display: flex;
         align-items: center;
         flex-direction: column;
+        justify-content: center;
     }
 `;
 
@@ -43,8 +44,8 @@ const Title = styled.h1`
     margin-bottom: 2.75rem;
 
     @media only screen and (max-width: 850px) {
-        margin-bottom: 12rem;
-        margin-top: 10rem;
+        
+
     }
 `;
 
